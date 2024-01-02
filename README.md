@@ -56,8 +56,8 @@
 ![image](https://github.com/23000966/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/153983364/329683e7-75d9-48b4-b36c-a9aa7f84726b)
 
 
-### Name: SANTHOSH KUMAR R
-### Register Number: 23000966
+### Name: DILIP SANJAY M
+### Register Number: 23014243
 
 ## RESULT:
  ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
